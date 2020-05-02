@@ -1,2 +1,7 @@
  file is created and modified
+<<<<<<< Updated upstream
 Working and saving file by stash
+=======
+file is modified and not comited. 
+by using stash commnad we can save and work after some time .
+>>>>>>> Stashed changes
