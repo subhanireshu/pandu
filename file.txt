@@ -1,1 +1,1 @@
- file3 is created
+ file is created and modified
