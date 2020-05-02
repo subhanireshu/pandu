@@ -1,1 +1,2 @@
  file is created and modified
+Working and saving file by stash
